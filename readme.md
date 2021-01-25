@@ -24,5 +24,5 @@ O projeto contempla um resumo estatístico dos dados de uma empresa, demonstrand
 Baseado no histórico do dataset entre 2012 e 2018, existe um crescimento ascente na participação do lucro anual e mantendo estável nos anos 2016, 2017 e 2018. Caso o perfil do investidor seja mais arrojado, não seria adequado recomendado a investir na empresa, pois não existe a tendência de alavancagem se os fatores, seja interno e/ou externo, não se alterarem. Caso o investidor tenha um perfil moderado, seria interessante investir mais visando em dividendos com a tendência de estabilidade, pois a participação da margem de lucro é próximo de 34% nos últimos 3 anos históricos do dataset. Lembrando que o ideal não seria basear apenas em dados históricos para investir em uma empresa.
 
 
-##### Observação
+#### Observação
 Ao longo do arquivo ```netflix_analysis.R``` existem comentários referentes à consutrução da conclusão, além de gráficos que auxiliam na visualização de comportamento dos dados. 
