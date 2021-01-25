@@ -15,7 +15,7 @@ O projeto contempla um resumo estatístico dos dados de uma empresa, demonstrand
 * Despesa de Markting;
 * Lucro;
 * Taxa de Margem de Lucro;
-* Custo por cliente (excluindo Despesas de Markting);
+* Custo por cliente (excluindo Despesas de Marketing);
 * Faturamento por cliente;
 * Lucro Bruto por cliente;
 * Tipo de Segmento de Mercado.
