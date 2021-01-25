@@ -25,4 +25,4 @@ Baseado no histórico do dataset entre 2012 e 2018, existe um crescimento ascent
 
 
 ##### Observação
-Ao longo do arquivo ```netflix_analysis.R``` existem comentários referentes à consutrução da conclusão, além de gráficos que auxiliam na visualização de comportamento dos dados. 
+# Ao longo do arquivo ```netflix_analysis.R``` existem comentários referentes à consutrução da conclusão, além de gráficos que auxiliam na visualização de comportamento dos dados. 
